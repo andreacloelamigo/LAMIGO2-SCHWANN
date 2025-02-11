@@ -1,0 +1,11 @@
+1.Name of your project? The Triangle Illusion
+
+  2.What is the purpose of your project? Tell about your project 
+  The purpose of this project is to create a visually appealing design using only triangles, which provides an engaging way to learn and explore more mathematical ideas.
+  I created this design to show the illusion of a spiral inside the triangles, and to amaze other people by my creativity and allowing myself to create my code using my 
+  imagination. 
+
+  3. How does your program work? explain how to run your code
+  It starts by importing the turtle module, the program creates a new turtle object called t and s using the turtle.Turtle() function and turtle.Screen().
+  The s.bgcolor("pink") makes the background color set to pink, and the t.width(4.5) sets the width of the turtles pen to 4.5 units while the t.speed(100) sets the turtle movement to 100.
+  the program uses a for loop to repeat the following steps 500 times.
